@@ -1,5 +1,3 @@
-# Quiz 1
-<img src="https://github.com/Zipcoder/BlueJ.Quiz1/blob/master/quiz1.png">
 
 ## **Git Instructions**
 
@@ -12,7 +10,8 @@
     * `git add .` to add files you want to commit
     * `git commit -m "commit message"` to commit your changes
     * `git push` your staged files to your remote repository
-    * submit a `pull request` which compares Zipcoder `master` to your `master`
+    * submit a `pull request` which compares my 
+    `master` to your `master`
 
 
 ## **Project Instructions**
